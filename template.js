@@ -8994,7 +8994,7 @@
     </a>
 
     <nav class="nav">
-      <a href="/index.html">Home</a>
+      <a href="/">Home</a>
     </nav>
   </div>
   `;
