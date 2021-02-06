@@ -8988,13 +8988,13 @@
   
   </style>
   <div class="content">
-    <a href="" class="logo">
+    <a href="https://bits-pilani.ac.in/APPCAiR" class="logo">
       ${logo}
       APPCAIR
     </a>
 
     <nav class="nav">
-      <a href="">Home</a>
+      <a href="/index.html">Home</a>
     </nav>
   </div>
   `;
